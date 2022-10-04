@@ -1,56 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# To-do list
 
-> Description the project.
+> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
+- HTML5
+- CSS3
+- Webpack
+- ES6
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://mahdiaghaali.github.io/to-do-list/dist/)
 
+## How to use
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+1. Clone the project using "git clone https://github.com/MahdiAghaali/to-do-list"
+2. Run the projec on a server (example: [live server on vscode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer))
 
 ## Authors
 
-👤 **Author1**
+👤 **Mahdi Aghaali**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@MahdiAghaali](https://github.com/MahdiAghaali)
+- Twitter: [@Mohi_Aghaali](https://twitter.com/Mohi_Aghaali)
+- LinkedIn: [mahdi-aghaali](https://www.linkedin.com/in/mahdi-aghaali/)
 
 ## 🤝 Contributing
 
@@ -66,10 +44,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
